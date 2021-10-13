@@ -65,5 +65,4 @@ Data: in the folder “Locus-NND example dataset” there are the following file
 
 GP220_+IL6_MUC4_20minEU.txt / GP220_NOIL6_MUC4_20minEU.txt: .txt file with the original localization list of the MUC4 locus in .txt format, for cells of two different conditions. This will be one of the input files for the script 
 
-GP220_+IL6_RNA_20minEU.mat / GP220_NOIL6_RNA_20minEU.mat: .mat file with the output from the cluster analysis of the super resolved RNA in .mat format, for cells of two different conditions. 
-![image](https://user-images.githubusercontent.com/8015729/137083961-cd6b0c4b-5073-46fa-a881-469c869ea3e3.png)
+GP220_+IL6_RNA_20minEU.mat / GP220_NOIL6_RNA_20minEU.mat: .mat file with the output from the cluster analysis of the super resolved RNA in .mat format, for cells of two different conditions.
